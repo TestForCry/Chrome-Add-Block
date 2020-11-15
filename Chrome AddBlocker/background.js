@@ -33,12 +33,26 @@ const defaultFilters = [
 	"*://*.xn--minecrft-5za.com/*",
 	"*://*.xn--discrd-zxa.com/*",
 	"*://*.iplogger.org/*",
+	"*://*.2no.co/*",
+	"*://*.iplogger.com/*",
+	"*://*.iplogger.ru/*",
+	"*://*.yip.su/*",
+	"*://*.bmwforum.co/*",
+	"*://*.curiouscat.club/*",
+	"*://*.catsnthings.com//*",
+	"*://*.catsnthings.fun/*",
+	"*://*.www.ps3cfw.com/*",
+	"*://*.blasze.tk/*",
+	"*://*.blasze.tk/*",
 	"*://*.the link/*",
 	"*://*.the link/*",
 	"*://*.the link/*",
 	"*://*.the link/*",
 	"*://*.the link/*",
-	
+	"*://*.the link/*",
+	"*://*.the link/*",
+	"*://*.the link/*",
+	"*://*.the link/*",
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
