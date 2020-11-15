@@ -15,6 +15,6 @@
     
     },
     "browser_action": {
-      "default_icon": "icon_128.png",
-      "default_title": "Anti-Grabify"
+      "default_icon": "icons/logo_128x128.png",
+      "default_title": "icons/logo_128x128.png"
     },
