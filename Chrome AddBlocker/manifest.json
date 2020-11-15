@@ -1,7 +1,7 @@
 {
     "name": "Ip Add Blocker",
-    "version": "1.0",
-    "description": "The most simple Add Blocker possiable, thanks for using",
+    "version": "1.1",
+    "description": "An add blocker with a grabify blocker included, in update 1.2 there will be a Grabify/Ip logger bypass. 1.2 Beta out 11/15/2020or sooner, keep an eye out ",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
